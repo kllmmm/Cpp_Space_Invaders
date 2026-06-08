@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Alien.cpp
+  GameObject.cpp
+  GameState.cpp
+  Laser.cpp
+  Level.cpp
+C:\Users\Dimitris\Desktop\Aueb\Courses\2nd_Year (4 left)\3rd_Semester (2 left)\Programming - C++\Project\3220061-3220106\Game\Game\Level.cpp(263,24): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Dimitris\Desktop\Aueb\Courses\2nd_Year (4 left)\3rd_Semester (2 left)\Programming - C++\Project\3220061-3220106\Game\Game\Level.cpp(364,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Player.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'sggd.lib'
