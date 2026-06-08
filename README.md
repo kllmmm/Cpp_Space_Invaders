@@ -60,7 +60,7 @@ This project was created as a learning exercise to practice game development con
 
 ## Project Structure
 
-```text
+
 Game/
 │
 ├── main.cpp
