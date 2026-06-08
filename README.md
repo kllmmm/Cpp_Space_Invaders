@@ -23,7 +23,7 @@ This project was created as a learning exercise to practice game development con
 
 - **Player Controls**
   - Move the spaceship horizontally.
-  - Fire projectiles at enemy invaders.
+  - Fire projectiles automatically at enemy invaders.
 
 - **Alien Enemy System**
   - Multiple alien enemies move across the screen.
@@ -35,7 +35,6 @@ This project was created as a learning exercise to practice game development con
 
 - **Level Management**
   - Enemies are organized into waves.
-  - Progression through increasingly challenging levels.
 
 - **Game State Management**
   - Handles gameplay flow.
@@ -86,7 +85,6 @@ Handles:
 
 * Player movement
 * Input processing
-* Shooting mechanics
 
 ### Alien
 
@@ -129,6 +127,7 @@ Build → Build Solution
 ```text
 Debug → Start Debugging
 ```
+*Must have the SGG Library*
 
 ---
 
@@ -138,7 +137,6 @@ Debug → Start Debugging
 | ---------- | --------------- |
 | Move Left  | A / Left Arrow  |
 | Move Right | D / Right Arrow |
-| Shoot      | Space           |
 | Exit       | Esc             |
 
 > Controls may vary slightly depending on the current implementation.
@@ -151,22 +149,8 @@ Debug → Start Debugging
 * Alien wave system
 * Laser combat
 * Collision detection
-* Level progression
 * Game over and victory states
 * Object-oriented architecture
-
----
-
-## Future Improvements
-
-* Score system
-* High-score saving
-* Sound effects and music
-* Power-ups
-* Additional enemy types
-* Boss battles
-* Main menu and settings
-* Visual effects and animations
 
 ---
 
