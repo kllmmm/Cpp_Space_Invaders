@@ -171,10 +171,10 @@ Debug → Start Debugging
 
 ## Screenshots
 
-![Menu](main.png)
-![Gameplay](gp1.png)
-![Level](gp2.png)
-![Game Over](end.png)
+![Menu](Screenshots/main.png)
+![Gameplay](Screenshots/gp1.png)
+![Level](Screenshots/gp2.png)
+![Game Over](Screenshots/end.png)
 
 
 ---
