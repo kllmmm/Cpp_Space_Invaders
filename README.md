@@ -1,9 +1,10 @@
 # Space Invaders (C++)
 
 A classic **Space Invaders** inspired game developed in **C++** using object-oriented programming principles and the [Simple Graphics Library (SGG)](https://github.com/cgaueb/sgg).  
-The player controls a spaceship, fights waves of invading aliens, avoids enemy attacks, and attempts to survive through increasingly difficult levels.
+The player controls a spaceship, fights waves of invading aliens, avoids enemy attacks, and attempts to survive through increasingly faster descending aliens.
 
-This project was created as a learning exercise to practice game development concepts, software architecture, and C++ programming.
+This project was created as a learning exercise to practice game development concepts, software architecture, and C++ programming for the C++ Programming cousre at the Athens University of Economics and Business (AUEB).
+
 
 ---
 
